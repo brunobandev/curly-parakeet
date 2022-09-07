@@ -1,0 +1,15 @@
+{
+    "name": "brunobandev/bruno-sdk",
+    "autoload": {
+        "psr-4": {
+            "Brunobandev\\BrunoSdk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "brunobandev",
+            "email": "brunoban.dev@gmail.com"
+        }
+    ],
+    "require": {}
+}
